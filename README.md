@@ -1,0 +1,2 @@
+# omok
+OMOK AI Project
