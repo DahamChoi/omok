@@ -2,8 +2,8 @@
 OMOK AI PROJECT
 
 # Description
-이 프로젝트는 **"알파제로를 분석하며 배우는 인공지능"** 의 모델구조와 탐색 구조를 카피하여 다른 게임으로 적용시켜 실제로 머신러닝의 기술을 활용하고 모델을 발전시키는 경험을 쌓기 위해 시작한 프로젝트입니다.
-[Jpub/AlphaZero: <알파제로를 분석하며 배우는 인공지능> 리포지토리 (github.com)](https://github.com/Jpub/AlphaZero)
+- 이 프로젝트는 **"알파제로를 분석하며 배우는 인공지능"** 의 모델구조와 탐색 구조를 카피하여 다른 게임으로 적용시켜 실제로 머신러닝의 기술을 활용하고 모델을 발전시키는 경험을 쌓기 위해 시작한 프로젝트입니다.
+- [Jpub/AlphaZero: <알파제로를 분석하며 배우는 인공지능> 리포지토리 (github.com)](https://github.com/Jpub/AlphaZero)
 # what is diffrent?
 
 ## CHANGE
