@@ -1,0 +1,7 @@
+# Directories #
+/.vscode/
+/data/
+/__pycache__/
+
+# file #
+games.xml
